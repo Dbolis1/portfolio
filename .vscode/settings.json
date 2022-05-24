@@ -1,0 +1,6 @@
+{
+  "workbench.editor.enablePreviewFromQuickOpen": true,
+  "npm.enableRunFromFolder": true,
+  "workbench.iconTheme": "material-icon-theme",
+  "liveServer.settings.port": 5502
+}
